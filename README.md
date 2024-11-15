@@ -8,6 +8,7 @@ Ask questions to your documents without an internet connection, using the power 
 Built with [LangChain](https://github.com/hwchase17/langchain), [LlamaIndex](https://www.llamaindex.ai/), [GPT4All](https://github.com/nomic-ai/gpt4all), [LlamaCpp](https://github.com/ggerganov/llama.cpp), [Chroma](https://www.trychroma.com/) and [SentenceTransformers](https://www.sbert.net/).
 
 # Environment Setup
+- Create a virtual environment of python version `3.11.9`
 In order to set your environment up to run the code here, first install all requirements:
 
 ```shell
